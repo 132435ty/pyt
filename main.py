@@ -3,6 +3,7 @@
 #Проверку нужно запихнуть в функцию, которая возвращает либо True, либо False
 
 
+
 def check_products(num1, num2):
   summ = (num1 + num2) / 2
   product = (num1 % 2) * (num2 % 2)
